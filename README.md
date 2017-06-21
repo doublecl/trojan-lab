@@ -1,7 +1,11 @@
 # Shortcut viruses
 ---
 
-Multiple variations of the infamous flash drive shortcut virus.
+>Multiple variations of the infamous flash drive shortcut virus.
+
+![They grow up so fast...](http://c1.staticflickr.com/6/5489/14513053050_75729524e1_d.jpg)
+
+---
 
 # Fantasy Premier League
 Simple obfuscatied script runs under powershell.
