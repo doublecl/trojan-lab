@@ -34,5 +34,5 @@ First submission: 2017-02-04
 ```py
 import codecs
 def q(x):
-	return codecs.decode(x, 'unicode_espace')
+	return codecs.decode(x, 'unicode_escape')
 ```
