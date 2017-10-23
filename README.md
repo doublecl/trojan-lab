@@ -1,5 +1,4 @@
 # Shortcut viruses
----
 
 Multiple variations of USB-transmitted Trojans.
 
@@ -7,7 +6,7 @@ Multiple variations of USB-transmitted Trojans.
 
 ---
 
-##Dunihi
+## Dunihi
 Simple obfuscated script runs under powershell.
 
 Filename: "Fantasy Premier League.vbs"
@@ -18,7 +17,7 @@ First submission: 2013-07-30
 
 ---
 
-##Agent.AIN
+## Agent.AIN
 Obfuscated script runs under wscript
 
 Filename: "eplore.js"
