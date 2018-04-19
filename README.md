@@ -38,3 +38,13 @@ Filename: "lifxnqyx.js"
 First submission: 2017-02-04
 
 [VirusTotal scan](https://www.virustotal.com/en/file/ab695805dd9ba5492f48f8e1ed202bab84bee0c438a892dab3e35d3c123ddfd3/analysis/)
+
+Filename: "kyqkoif.js"
+
+First submission: 2016-05-20
+
+[VirusTotal scan](https://www.virustotal.com/#/file/ab695805dd9ba5492f48f8e1ed202bab84bee0c438a892dab3e35d3c123ddfd3/)
+
+
+
+	
